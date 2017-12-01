@@ -27,3 +27,7 @@ Illinois Census Tract Shapefile : https://www.census.gov/geo/maps-data/data/cbf/
 
 
 Code for Analysis: 
+
+Divvy_Data_Analysis.ipynb
+Trips_Stations.ipynb
+Socioeconomic_Factors.ipynb
