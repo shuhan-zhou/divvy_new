@@ -1,6 +1,8 @@
 # divvy_new
 
-A clean write up for this project can be found through the webpage below
+A clean write up for this project can be found through the webpage below. 
+
+Please use this webpage as the final summary for grading purposes
 
 https://shuhan-zhou.github.io/divvy_bike_project.html
 
